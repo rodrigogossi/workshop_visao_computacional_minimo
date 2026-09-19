@@ -1,5 +1,7 @@
 # workshop_visao_computacional_minimo
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rodrigogossi/workshop_visao_computacional_minimo/blob/main/treinamento_workshop_ao_vivo.ipynb)
+
 Repositório enxuto, feito só para o exercício de treinamento ao vivo do
 **Workshop de Visão Computacional Aplicada** (UTFPR Dois Vizinhos, set/2026).
 Aqui só entra o essencial pra rodar o notebook rápido, com um `git clone` leve.
