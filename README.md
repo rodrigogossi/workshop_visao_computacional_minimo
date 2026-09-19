@@ -1,4 +1,4 @@
-# treinamentoDL_minimo
+# workshop_visao_computacional_minimo
 
 Repositório enxuto, feito só para o exercício de treinamento ao vivo do
 **Workshop de Visão Computacional Aplicada** (UTFPR Dois Vizinhos, set/2026).
