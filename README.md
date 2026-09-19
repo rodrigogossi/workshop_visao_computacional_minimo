@@ -2,9 +2,7 @@
 
 Repositório enxuto, feito só para o exercício de treinamento ao vivo do
 **Workshop de Visão Computacional Aplicada** (UTFPR Dois Vizinhos, set/2026).
-Recorte independente do repositório principal
-[`treinamentoDL_scripts`](https://github.com/rodrigogossi/treinamentoDL_scripts) —
-aqui só entra o essencial pra rodar o notebook rápido, com um `git clone` leve.
+Aqui só entra o essencial pra rodar o notebook rápido, com um `git clone` leve.
 
 ## Conteúdo
 
@@ -18,7 +16,7 @@ aqui só entra o essencial pra rodar o notebook rápido, com um `git clone` leve
 
 ## Como usar
 
-Abra o notebook direto no Colab a partir do GitHub (assim que este repositório estiver publicado) e rode as células em ordem — a primeira célula instala as dependências, a segunda clona este repositório.
+Abra o notebook direto no Colab a partir do GitHub e rode as células em ordem — a primeira célula instala as dependências, a segunda clona este repositório.
 
 ## Contexto
 
